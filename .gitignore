@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Data Directory
-./data/
+data/
 # Secret Directory
-./secret/
+secret/
